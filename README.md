@@ -30,6 +30,9 @@ Para testar este projeto, precisará das seguintes ferramentas instaladas:
 # Clone o repositório
 git clone https://github.com/vinibortoletto/trybers-and-dragons.git
 
+# Entre no diretório
+cd trybers-and-dragons
+
 # Inicie o Docker Compose
 docker-compose up -d
 
